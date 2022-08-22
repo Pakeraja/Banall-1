@@ -1,5 +1,5 @@
 # Banall bot
-
+# 100% my edit ban grp admins & owners
 Telegram Ban all Bot Which can Remove All members easily ...
 
 ## Deploy
